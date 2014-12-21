@@ -6,6 +6,7 @@ This code book describes the data in UIC_tidy.txt that was produced from running
 * "subject" - The id of subject who produced the observations, the ids are 1 - 30 for the 30 subjects.
 
 * "activity" - The activity that was taking place when the observations were recorded:
+    
     LAYING
     SITTING
     STANDING
