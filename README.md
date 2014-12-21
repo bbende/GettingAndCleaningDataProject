@@ -13,10 +13,10 @@ The following files are contained in the repository:
 
 
 To create the tidy set from scratch:
-1. Create a directory on your local machine
-2. Download the zip file referenced above to that directory
-3. Extract the zip file
-4. Place the run_analysis.R script in that same directory created in step1
-5. From R studio, or the R console, set your working directory to the directory from step1
-6. Execute the run_analysis.R script
-7. Results will be written to UIC_tidy.txt
+* Create a directory on your local machine
+* Download the zip file referenced above to that directory
+* Extract the zip file
+* Place the run_analysis.R script in that same directory created in step1
+* From R studio, or the R console, set your working directory to the directory from step1
+* Execute the run_analysis.R script
+* Results will be written to UIC_tidy.txt
