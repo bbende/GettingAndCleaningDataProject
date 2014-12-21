@@ -6,12 +6,12 @@ This code book describes the data in UIC_tidy.txt that was produced from running
 * "subject" - The id of subject who produced the observations, the ids are 1 - 30 for the 30 subjects.
 
 * "activity" - The activity that was taking place when the observations were recorded:
-** LAYING
-** SITTING
-** STANDING
-** WALKING
-** WALKING_DOWNSTAIRS
-** WALKING_UPSTAIRS
+  LAYING
+  SITTING
+  STANDING
+  WALKING
+  WALKING_DOWNSTAIRS
+  WALKING_UPSTAIRS
 
 The remaining columns contain the mean() of the given attribute for each subject,activity pair. For example, the first value of tBodyAcc-mean()-X contains the mean() of all tBodyAcc-mean()-X values for subject 1 and the activity of LAYING, the second value of tBodyAcc-mean()-X contains the mean() of all tBodyAcc-mean()-X values for subject 1 and the activity of SITTING, and so on.
 
